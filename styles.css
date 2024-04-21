@@ -42,10 +42,13 @@ img {
 	
 }
 
-/* Media query for screens less than 600px wide */
-@media (max-width: 600px) {
+/* Media query for screens less than 768px wide */
+@media (max-width: 768px) {
+     .text h1 {
+        font-size: 2em; /* larger font size for mobile devices */
+    }
     .text p {
-        font-size: 50px; /* larger font size for mobile devices */
+        font-size: 1.5em; /* increased font size for paragraphs on mobile */
 		left: 10%;	
 		width: 80%;
 		padding: 10px;
