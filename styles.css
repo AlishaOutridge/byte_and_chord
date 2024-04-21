@@ -48,7 +48,7 @@ img {
         font-size: 2em; /* larger font size for mobile devices */
     }
     .text p {
-        font-size: 1.5em; /* increased font size for paragraphs on mobile */
+        font-size: 5em; /* increased font size for paragraphs on mobile */
 		left: 10%;	
 		width: 80%;
 		padding: 10px;
