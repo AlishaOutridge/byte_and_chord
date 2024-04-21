@@ -33,6 +33,7 @@ img {
   top: 30%;
   left: 50%;
   transform: translate(-50%, -50%);
+	width: 80%;
   text-align: center;
 	
    background-color: rgba(0, 0, 0, 0.5); /* Adjust opacity as needed */
@@ -45,6 +46,7 @@ img {
     .text p {
         font-size: 50px; /* larger font size for mobile devices */
 		left: 10%;	
+		width: 80%;
     }
 }
 
@@ -56,7 +58,7 @@ img {
   transform: translateX(-50%); /* Move the form left by half its own width to center it */
   background: rgba(0, 0, 0, 0.8);
   color: white;
-  width: 60%;
+  width: 80%;
   padding: 20px;
   box-sizing: border-box;
 }
