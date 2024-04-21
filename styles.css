@@ -28,13 +28,21 @@ img {
 .text {
   color: white;
   text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.8);
-  font-size: 1.3em;
+  font-size: 1.3em; /* original size for larger screens */
   position: absolute;
   top: 30%;
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
 }
+
+/* Media query for screens less than 600px wide */
+@media (max-width: 600px) {
+    .text p {
+        font-size: 20px; /* larger font size for mobile devices */
+    }
+}
+
 
 .contact-form {
   position: fixed;
