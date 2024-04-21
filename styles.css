@@ -46,12 +46,14 @@ img {
 @media (max-width: 768px) {
      .text h1 {
         font-size: 2em; /* larger font size for mobile devices */
+		color: lightpink;
     }
     .text p {
-        font-size: 5em; /* increased font size for paragraphs on mobile */
-		left: 10%;	
+        font-size: 15em; /* increased font size for paragraphs on mobile */
+		color: lightpink;
+		/* left: 10%;	
 		width: 80%;
-		padding: 10px;
+		padding: 10px; */
     }
 }
 
