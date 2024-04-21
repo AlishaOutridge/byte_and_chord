@@ -39,7 +39,7 @@ img {
 /* Media query for screens less than 600px wide */
 @media (max-width: 600px) {
     .text p {
-        font-size: 20px; /* larger font size for mobile devices */
+        font-size: 25px; /* larger font size for mobile devices */
 		left: 20%;	
     }
 }
