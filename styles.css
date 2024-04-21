@@ -46,11 +46,9 @@ img {
 @media (max-width: 768px) {
      .text h1 {
         font-size: 1.3em; /* larger font size for mobile devices */
-		color: deeppink;
     }
     .text p {
-        font-size: 0.8em; /* increased font size for paragraphs on mobile */
-		color: deeppink;
+        font-size: 0.9em; /* increased font size for paragraphs on mobile */
 		/* left: 10%;	
 		width: 80%;
 		padding: 10px; */
