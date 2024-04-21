@@ -49,7 +49,7 @@ img {
 		color: deeppink;
     }
     .text p {
-        font-size: 0.9em; /* increased font size for paragraphs on mobile */
+        font-size: 0.8em; /* increased font size for paragraphs on mobile */
 		color: deeppink;
 		/* left: 10%;	
 		width: 80%;
